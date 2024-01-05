@@ -8,6 +8,6 @@ $ pip install requests
 
 $ git clone https://github.com/wapbaru/dump-data
 
-cd dump  
+cd dump-data  
 
 $ python dump.py
