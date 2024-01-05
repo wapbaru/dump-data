@@ -17,7 +17,7 @@ def mlaku(z):
 		time.sleep(0.04)
 
 def banner():
-    print("""   ___                \n  / _ \__ ____ _  ___ ® ┌──────────────────────────────┐\n / // / // /  ' \/ _ \  │  Script By Dapunta Khurayra  │\n/____/\_,_/_/_/_/ .__/  │   •• Github.com/Dapunta ••   │\n   ID Facebook /_/      └──────────────────────────────┘""")
+    print("""  www.wapbaru.com """)
   
 def login():
     os.system('clear')
